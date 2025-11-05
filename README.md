@@ -1,2 +1,2 @@
 # web_practice
-htmlesslessons
+htmlcsslessons
